@@ -1,7 +1,9 @@
-this is for sample ,for learning git  hub
 
-todaylearning part
-1.git add
-2.git commit
-3.git init
+<html>
+<head>
+<body>
+<h1>Added the header field<h1/>
+<body/>
+<head/>
+<html/>
 
